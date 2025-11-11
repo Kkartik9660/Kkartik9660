@@ -1,97 +1,110 @@
-<!-- ================= HEADER ================= -->
+<!-- ========== ULTRA DARK • MAGIC README (GitHub-safe) ========== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,100:101010&text=Kartik%20D.%20Gohil&fontColor=ffffff&fontAlign=50&fontSize=55&desc=Full-Stack%20Developer%20%7C%20React%20%2B%20Node&descAlign=50&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,100:101010&text=Kartik%20D.%20Gohil&fontColor=ffffff&fontAlign=50&fontSize=55&desc=Full-Stack%20Developer%20%7C%20React%20%2B%20Node&descAlign=50&descAlignY=65" alt="banner"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Aspiring+Full-Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;Passionate+About+Dark+UI;Building+Modern+Web+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=900&lines=Aspiring+Full-Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;Dark+UI+%F0%9F%8C%91+%7C+Clean+Code+%7C+High+Performance;Open+to+Internships+%26+Full-time" alt="typing"/>
 </p>
 
-<!-- ================= PROFILE CARD ================= -->
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:gohilkartik007@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <img src="https://komarev.com/ghpvc/?username=gohilkartik007&style=for-the-badge&color=0b934d&label=Profile+Views" />
+</p>
 
+<!-- Divider -->
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"></p>
+
+## 🖤 About Me
+- 🧑‍💻 I build **dark, minimal, performance-focused** web apps.
+- 🧩 Stack: **React, Node, Express, MongoDB, MySQL** · HTML · CSS · JavaScript
+- 🎯 Goal: Junior **Full-Stack Developer**
+- 🏏 Hobbies: Cricket · Traveling · Music
+
+---
+
+## 📊 GitHub Analytics (Dark)
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gohilkartik007&theme=github_dark" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gohilkartik007&theme=github_dark" />
+  <br/><br/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gohilkartik007&theme=github_dark" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gohilkartik007&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gohilkartik007&theme=github-dark-blue&hide_border=true&background=0B0B0B" height="170" />
+</p>
+
+---
+
+## ⚙️ Tech Stack (Clickable → Official Sites)
+<p align="center">
+  <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="45"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="45"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="45"/></a>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="45"/></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="45"/></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" height="45"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="45"/></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="45"/></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="45"/></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="45"/></a>
+</p>
+
+---
+
+## 🚀 Featured Projects
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/583231?v=4" width="180" style="border-radius:50%;border:4px solid #58a6ff;box-shadow:0 0 20px rgba(88,166,255,0.5);" />
+
+<a href="#"><img src="https://img.shields.io/badge/Web%20Wizard-MERN-222222?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>  
+<sub>Authentication · API Integration · Cards UI · Local Storage</sub>
+
+<br/><br/>
+
+<a href="#"><img src="https://img.shields.io/badge/Online%20Chemical%20Selling-PHP%20%2B%20MySQL-222222?style=for-the-badge&logo=php&logoColor=777BB4" /></a>  
+<sub>Cart · CRUD · Admin Panel</sub>
+
 </div>
 
-<br/>
+> 💡 Tip: Pin the repos from **Profile → Customize your pins** so they show on top.
 
-<h2 align="center">🔥 Kartik D. Gohil</h2>
-<p align="center" style="color:#8b949e;">@gohilkartik007</p>
+---
 
+## 📈 Contribution Graph
 <p align="center">
-  Creative Full-Stack Developer • Dark Theme Lover<br/>
-  React • Node.js • MongoDB • Modern UI Builder
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gohilkartik007&theme=react-dark&radius=8&area=true&hide_border=true" width="95%" />
 </p>
 
 ---
 
-# 📍 Profile Information
-
-- 🌍 **Location:** Surat, Gujarat, India  
-- 💼 **Portfolio:** (Add your link)  
-- 📧 **Email:** gohilkartik007@gmail.com  
-- ⚡ **Skills:** React, Node.js, Express, MongoDB, MySQL  
-
----
-
-# 📊 Stats
-
+## 🏆 Achievements
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gohilkartik007&theme=github_dark" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gohilkartik007&theme=github_dark" height="180"/>
-<br/><br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gohilkartik007&theme=github_dark" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gohilkartik007&theme=github_dark" height="180"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=gohilkartik007&theme=onedark&no-bg=true&margin-w=10" />
 </p>
 
 ---
 
-# ⚙️ Skills
+## ✉️ Contact
+**Email:** gohilkartik007@gmail.com  
+**Location:** Surat, Gujarat, India
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-0b0b0b?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111" /></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0b0b0b?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=111111" /></a>
+  <a href="mailto:gohilkartik007@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0b0b0b?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=111111" /></a>
 </p>
-
----
-
-# 📌 Pinned Repositories
-
-### 🔹 Web Wizard (MERN)
-Dark UI • Authentication • Cards UI  
-👉 Add your repo link
-
-### 🔹 Online Chemical Selling (PHP + MySQL)
-Admin Panel • CRUD • Image Upload  
-👉 Add your repo link
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gohilkartik007&theme=react-dark&radius=10&area=true&hide_border=true" width="95%"/>
-</p>
-
----
-
-# 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gohilkartik007&theme=onedark&no-bg=true&margin-w=10"/>
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:101010,100:000000" />
 </p>
+
+<!-- Notes:
+1) Create a repo named exactly your GitHub username: gohilkartik007
+2) Put this file as README.md in that repo to make it your profile.
+3) Replace # links with your real portfolio and repo links.
+4) All effects are GitHub-safe (SVG/images only). -->
