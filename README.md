@@ -5,7 +5,7 @@
 
 <!-- ✨ Animated Role Line -->
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=2500&pause=700&color=0FFFF3&center=true&vCenter=true&width=650&lines=Backend+Developer;API+Engineer;NodeJS+%7C+Express+%7C+MongoDB;High+Performance+Backend+Systems+🚀" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=2500&pause=700&color=0FFFF3&center=true&vCenter=true&width=650&lines=Backend+Developer;API+Engineer;NodeJS+%7C+Express+%7C+MySQL;High+Performance+Backend+Systems+🚀" />
 </p>
 
 ---
