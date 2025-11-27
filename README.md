@@ -3,21 +3,25 @@
   <img src="photo.png" width="100%" />
 </p>
 
-<!-- 🟢 Animated Intro Header -->
+<!-- ✨ Animated Intro Header (Color Matched to Profile Name) -->
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+API+Engineer;NodeJS+%7C+Express+%7C+MongoDB;Building+High+Performance+Systems+🚀" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3000&pause=800&color=0ffff3&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+API+Engineer;NodeJS+%7C+Express+%7C+MongoDB;Building+High+Performance+Systems+🚀" />
 </p>
 
 ---
 
-<h2 align="center" style="background:#00C2FF; color:#000; padding:6px; border-radius:5px;">🧑‍💻 About Me</h2>
 
-<table cellspacing="0" cellpadding="0">
+
+<table cellspacing="0" cellpadding="0" width="100%">
 <tr>
 <td>
+<!-- 🧑‍💻 ABOUT SECTION -->
+<div align="center" style="background:#00C2FF; padding:10px; border-radius:8px;">
+  <h2 style="color:#000; margin:0;">🧑‍💻 About Me</h2>
+</div>
 
-I am **Kartik D. Gohil**, a passionate **Backend Developer** skilled in designing scalable REST APIs, authentication & secure backend systems.  
-I love working with performance-driven servers, database architectures & production-ready backend logic.
+I am **Kartik D. Gohil**, a passionate **Backend Developer** skilled in scalable REST APIs, authentication & optimized backend systems.  
+Focus is to build **performant, secure & production-grade architectures**.
 
 💡 Passion → Backend Engines | Databases | High-scale Apps  
 ⚙ Skills → NodeJS • ExpressJS • MongoDB • MySQL • PostgreSQL  
@@ -26,14 +30,17 @@ I love working with performance-driven servers, database architectures & product
 </td>
 
 <td align="right">
-  <img src="Logo.png" width="185px"/>
+  <img src="Logo.png" width="260px"/> <!-- Cartoon Increased -->
 </td>
 </tr>
 </table>
 
 ---
 
-<h2 align="center" style="background:#0078FF; color:#fff; padding:6px; border-radius:5px;">🔥 Skills & Technologies</h2>
+<!-- 🔥 SKILLS -->
+<div align="center" style="background:#0078FF; padding:10px; border-radius:8px;">
+  <h2 style="color:#fff; margin:0;">🔥 Skills & Technologies</h2>
+</div>
 
 <p align="center">
 <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>
@@ -48,18 +55,21 @@ I love working with performance-driven servers, database architectures & product
 
 ---
 
-<h2 align="center" style="background:#FF4D4D; color:#fff; padding:6px; border-radius:5px;">📂 Projects</h2>
+<!-- 📂 PROJECTS -->
+<div align="center" style="background:#FF4D4D; padding:10px; border-radius:8px;">
+  <h2 style="color:#fff; margin:0;">📂 Projects</h2>
+</div>
 
 ### 🔹 WebWizard  
 A full-stack platform with UI pages, secure login, APIs & animated frontend.
 
 📌 **Features**
-- JWT Login + Signup
-- MongoDB CRUD APIs
-- Interactive blog UI + Axios fetch
-- Fully responsive layout with animations
+- JWT Login + Signup  
+- MongoDB CRUD APIs  
+- Blog cards with Axios fetch  
+- Responsive UI + Animations  
 
-📌 **Tech Stack**
+📌 **Tech**
 <p>
 <a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
 <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>
@@ -70,15 +80,15 @@ A full-stack platform with UI pages, secure login, APIs & animated frontend.
 ---
 
 ### 🔹 Online Chemical Selling  
-A PHP + MySQL based online selling system with order & admin panel.
+Order + admin product management PHP & MySQL based project.
 
 📌 **Features**
-- Admin product CRUD dashboard  
-- Add-to-cart & order flow  
-- User panel + login auth  
-- SQL-based backend handling  
+- Admin CRUD
+- Add-to-cart & order flow
+- Login Auth System
+- SQL backend operations
 
-📌 **Tech Stack**
+📌 **Tech**
 <p>
 <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-474A8A?style=for-the-badge&logo=php&logoColor=white"/></a>
 <a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></a>
@@ -89,14 +99,18 @@ A PHP + MySQL based online selling system with order & admin panel.
 
 ---
 
-<h2 align="center" style="background:#00E676; color:#000; padding:6px; border-radius:5px;">📬 Contact Me</h2>
+<!-- 📬 Contact -->
+<div align="center" style="background:#00E676; padding:10px; border-radius:8px;">
+  <h2 style="color:#000; margin:0;">📬 Contact Me</h2>
+</div>
 
 📞 **+91 8849267942**  
 📧 **gohilkartik007@gmail.com**  
-🔗 **https://www.linkedin.com/in/gohilkartik007/**  
+🔗 **https://www.linkedin.com/in/gohilkartik007/**
 
 ---
 
+<!-- 🔥 Footer Animation (Color Matched) -->
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2500&pause=600&color=09CDFF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile+🚀;Keep+Learning+•+Keep+Building+🔥" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2500&pause=600&color=0ffff3&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile+🚀;Keep+Learning+•+Keep+Building+🔥" />
 </p>
